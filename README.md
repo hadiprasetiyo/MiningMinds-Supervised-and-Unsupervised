@@ -32,8 +32,8 @@ Menilai kinerja model yang telah dibuat.
 Mengimplementasikan model yang telah dilatih untuk penggunaan praktis.
 
 #### Detailed Report 📄
-- [Laporan Canva](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
-- [Looker Studio Terawasi](https://lookerstudio.google.com/u/0/reporting/feb8392f-08e0-460d-a9d3-8de59d5eaf59/page/MdIPD)
+- [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
+- [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/feb8392f-08e0-460d-a9d3-8de59d5eaf59/page/MdIPD)
 
 ## Project 2: Unsupervised Analysis of Socio-Economic Factors Across Countries
 
@@ -63,5 +63,5 @@ Menilai kinerja model.
 Mengimplementasikan wawasan yang diperoleh dari analisis.
 
 #### Detailed Report 📄
-- **Canva**: [Link Laporan Detail Canva](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
-- **Looker Studio Unsupervised**: [Link Grafik Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/947b61a9-6874-45fa-9147-ba1d639aa038/page/yANPD/edit)
+- [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
+- [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/947b61a9-6874-45fa-9147-ba1d639aa038/page/yANPD/edit)
