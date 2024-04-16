@@ -33,7 +33,7 @@ Mengimplementasikan model yang telah dilatih untuk penggunaan praktis.
 
 #### Detailed Report 📄
 - [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
-- [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/feb8392f-08e0-460d-a9d3-8de59d5eaf59/page/MdIPD)
+- [Looker Studio Supervised](https://lookerstudio.google.com/u/0/reporting/feb8392f-08e0-460d-a9d3-8de59d5eaf59/page/MdIPD)
 
 ## Project 2: Unsupervised Analysis of Socio-Economic Factors Across Countries
 
