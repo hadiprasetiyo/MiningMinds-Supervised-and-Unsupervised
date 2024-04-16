@@ -65,5 +65,5 @@ Mengimplementasikan wawasan yang diperoleh dari analisis.
 
 #### Detailed Report 📄
 - [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
-- [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/947b61a9-6874-45fa-9147-ba1d639aa038/page/yANPD/edit)\
+- [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/947b61a9-6874-45fa-9147-ba1d639aa038/page/yANPD/edit)
 - [Google Colab - Unsupervised Analysis](https://colab.research.google.com/drive/1nUTw_6NyLYeqKH-orRQx10zKi8vN2unm?usp=sharing)
