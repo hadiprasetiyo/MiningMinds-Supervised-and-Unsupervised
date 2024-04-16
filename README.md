@@ -1,71 +1,67 @@
-# Final Project: Data Mining
+# Final Project: Data Mining 📊
 
-## Project 1: Supervised Analysis of Walmart Sales Trends
+## Project 1: Supervised Analysis of Walmart Sales Trends 🛒
 
 ### Overview
-Proyek ini berfokus pada analisis tren penjualan Walmart dengan pendekatan terawasi. Mengikuti metodologi CRISP-DM dan terdiri dari beberapa tahap:
+This project focuses on the supervised analysis of Walmart sales trends. Following the CRISP-DM methodology, it consists of several stages:
 
-1. **Business Understanding**: Memahami tujuan dan objektif bisnis terkait tren penjualan Walmart.
-2. **Data Understanding**: Memperoleh wawasan tentang dataset penjualan Walmart.
+1. **Business Understanding** 📈: Understanding the business objectives related to Walmart sales trends.
+2. **Data Understanding** 📊: Gaining insights into the Walmart sales dataset.
 
-#### Data Preparation
-- **Cleaning**: Membersihkan dataset untuk memastikan keakuratan dan konsistensi.
-- **Transformation & Extraction**: Mengubah dan mengekstraksi fitur yang relevan dari dataset.
-- **Reduction**: Mengurangi dimensionalitas dataset jika diperlukan.
-- **Slicing**: Memotong dataset untuk fokus pada aspek tertentu.
+#### Data Preparation 🛠️
+- **Cleaning**: Ensuring dataset accuracy and consistency.
+- **Transformation & Extraction**: Extracting relevant features from the dataset.
+- **Reduction**: Reducing dataset dimensionality if needed.
+- **Slicing**: Focusing on specific aspects of the dataset.
 - **Formatting**:
-  - **Encoding**: Mengkodekan variabel kategorikal.
-  - **Splitting**: Memisahkan dataset untuk tujuan pelatihan dan pengujian.
-  - **Cross Validation**: Mengimplementasikan teknik validasi silang.
+  - **Encoding**: Encoding categorical variables.
+  - **Splitting**: Splitting the dataset for training and testing purposes.
+  - **Cross Validation**: Implementing cross-validation techniques.
 
-#### Modelling
-- **Preprocessing**: Pra memproses dataset untuk keperluan pemodelan.
+#### Modelling 🤖
+- **Preprocessing**: Preprocessing the dataset for modeling purposes.
 - **Modelling**:
   - Gaussian Naive Bayes (GNB)
   - K-Nearest Neighbors (KNN)
   - C4.5 Decision Tree
 
-#### Evaluation
-Menilai kinerja model.
+#### Evaluation 📝
+Assessing model performance.
 
-#### Deployment
-Mengimplementasikan model yang telah dilatih untuk penggunaan praktis.
+#### Deployment 🚀
+Implementing trained models for practical use.
 
-#### Detailed Report
+#### Detailed Report 📄
 - [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
 - [Looker Studio Supervised](https://lookerstudio.google.com/u/0/reporting/feb8392f-08e0-460d-a9d3-8de59d5eaf59/page/MdIPD)
 
-## Project 2: Unsupervised Analysis of Socio-Economic Factors Across Countries
+## Project 2: Unsupervised Analysis of Socio-Economic Factors Across Countries 🌍
 
 ### Overview
-Proyek ini berfokus pada analisis unsupervised menggunakan metodologi CRISP-DM untuk menganalisis faktor sosial-ekonomi antar negara.
+This project focuses on unsupervised analysis using the CRISP-DM methodology to analyze socio-economic factors across countries.
 
-1. **Business Understanding**: Memahami faktor sosial-ekonomi yang mempengaruhi kesejahteraan negara.
-2. **Data Understanding**: Mengumpulkan dan menggambarkan dataset sosial-ekonomi.
+1. **Business Understanding** 🌐: Understanding socio-economic factors influencing country welfare.
+2. **Data Understanding** 📊: Collecting and visualizing socio-economic dataset.
 
-#### Data Exploration
-- **Handling Outliers**: Mengatasi outlier dalam dataset.
+#### Data Exploration 🔍
+- **Handling Outliers**: Dealing with outliers in the dataset.
 
-#### Data Preparation
-- **Missing Value Check**: Memeriksa nilai kosong dalam dataset.
-- **Bivariate Analysis**: Menganalisis hubungan antara pasangan variabel.
+#### Data Preparation 🛠️
+- **Missing Value Check**: Checking for missing values in the dataset.
+- **Bivariate Analysis**: Analyzing relationships between variable pairs.
 
-#### Evaluation
-Menilai langkah-langkah pra pemrosesan.
+#### Evaluation 📝
+Assessing preprocessing steps.
 
-#### Modelling
-- **Pemodelan**: Melakukan pemodelan unsupervised untuk mengidentifikasi pola dan faktor kunci yang mempengaruhi kesejahteraan negara.
+#### Modelling 🤖
+- **Modelling**: Performing unsupervised modeling to identify patterns and key factors influencing country welfare.
 
-#### Evaluation
-Menilai kinerja model.
+#### Evaluation 📝
+Assessing model performance.
 
-#### Deployment
-Mengimplementasikan wawasan yang diperoleh dari analisis.
+#### Deployment 🚀
+Implementing insights gained from analysis.
 
-#### Detailed Report
+#### Detailed Report 📄
 - [Canva Report](https://www.canva.com/design/DAFiIvL-06Q/mMpgnNi30_sHarKle9lNow/edit)
 - [Looker Studio Unsupervised](https://lookerstudio.google.com/u/0/reporting/947b61a9-6874-45fa-9147-ba1d639aa038/page/yANPD/edit)
-
----
-
-📊🌍 Thanks bro! 🛠️📈
